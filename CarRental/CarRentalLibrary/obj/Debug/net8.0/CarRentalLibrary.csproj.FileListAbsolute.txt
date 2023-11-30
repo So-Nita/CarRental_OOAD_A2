@@ -1,0 +1,12 @@
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\bin\Debug\net8.0\CarRentalLibrary.deps.json
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\bin\Debug\net8.0\CarRentalLibrary.dll
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\bin\Debug\net8.0\CarRentalLibrary.pdb
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.AssemblyInfoInputs.cache
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.AssemblyInfo.cs
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.csproj.CoreCompileInputs.cache
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.sourcelink.json
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.dll
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\refint\CarRentalLibrary.dll
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\CarRentalLibrary.pdb
+D:\MyFolder\CarRental_OOAD_A2\CarRental\CarRentalLibrary\obj\Debug\net8.0\ref\CarRentalLibrary.dll
